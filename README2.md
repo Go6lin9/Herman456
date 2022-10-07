@@ -71,8 +71,8 @@
 | C109118184 張倚瑄  |使用者訓練、使用者測試|
 
 
-![](PERT_group.png)
 ## PERT/CPM 圖
+![](https://i.imgur.com/3KSMZQZ.png)
 
 ```graphviz
 digraph {
